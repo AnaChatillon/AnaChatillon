@@ -1,5 +1,4 @@
 # AnaChatillon-Read-me
-Hello World
 
 🤩 Hi there! I'm Ana! 👋
 💡 Passionate about learning and exploring new horizons.
