@@ -1,5 +1,4 @@
-# AnaChatillon
-<ul>🤩 Hi there! I'm Ana! 👋</ul>
+# 🤩 Hi there! I'm Ana! 👋
 <ul>💡 Passionate about learning and exploring new horizons.</ul>
 <ul>🌱 Currently growing my skills in a SheCodes Bootcamp.</ul>
 <ul>🏞️ Nature enthusiast — nothing beats a good hike!</ul>
